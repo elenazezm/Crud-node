@@ -5,8 +5,8 @@ var app=express()
 var con=mysql.createConnection({
     host:'localhost',
     user:'root',
-    password:'TjaZprBUqjXhNXihYezGiNZyRywSIGKS',
-    database:'5IV8'
+    password:'azulytimo',
+    database:'panadera_la_desesperanza'
 })
 con.connect();
 
